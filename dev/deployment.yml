@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: test-argo
-          image: kosukefuchi/test-python:0.1.10
+          image: kosukefuchi/test-python:0.1.11
           ports:
             - containerPort: 80
